@@ -9,6 +9,6 @@ package com.mywebapp.api.webapi.repositories;
  *
  * @author Kennedy
  */
-public class UserRepo {
+public interface UserRepository {
     
 }

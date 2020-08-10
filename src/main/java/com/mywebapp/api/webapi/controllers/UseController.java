@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class UseController {
     
+    
     @RequestMapping(value="/")
     @ResponseBody
     public String helloWorld(){
